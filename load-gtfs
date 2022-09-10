@@ -29,6 +29,6 @@ for sheet in "${SHEETS[@]}"; do
     fi
 
     echo "Loading GTFS data from ${GTFS_DIR}/${sheet}.txt"
-    git sheet upsert --format=csv "${sheet}" "${GTFS_DIR}/${sheet}.txt"
+    git sheet upsert --format=csv --delete-missing "${sheet}" "${GTFS_DIR}/${sheet}.txt"
     git commit -m "data(gtfs): load ${sheet}.txt"
 done
