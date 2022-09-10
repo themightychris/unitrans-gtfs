@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "0E6734"
+route_id = "B"
+route_long_name = "Sycamore/Drake"
+route_short_name = "B"
+route_text_color = "FFFFFF"
+route_type = "3"

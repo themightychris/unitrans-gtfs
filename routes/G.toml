@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "00AEC1"
+route_id = "G"
+route_long_name = "Anderson/Alvarado/N Sycamore/MU Terminal"
+route_short_name = "G"
+route_text_color = "FFFFFF"
+route_type = "3"

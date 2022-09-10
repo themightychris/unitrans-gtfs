@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "ED1C24"
+route_id = "Q"
+route_long_name = "Davis Perimeter Clockwise"
+route_short_name = "Q"
+route_text_color = "FFFFFF"
+route_type = "3"

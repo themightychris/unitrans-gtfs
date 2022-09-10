@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "1B75BB"
+route_id = "W"
+route_long_name = "Cowell/Lillard/Drummond"
+route_short_name = "W"
+route_text_color = "FFFFFF"
+route_type = "3"

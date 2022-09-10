@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "AB1D53"
+route_id = "M"
+route_long_name = "B St/Cowell/Drew"
+route_short_name = "M"
+route_text_color = "FFFFFF"
+route_type = "3"

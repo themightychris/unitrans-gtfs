@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "61A543"
+route_id = "V"
+route_long_name = "West Village"
+route_short_name = "V"
+route_text_color = "FFFFFF"
+route_type = "3"

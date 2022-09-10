@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "8F5CA5"
+route_id = "O"
+route_long_name = "Amtrak/5th/Alhambra/Target"
+route_short_name = "O"
+route_text_color = "FFFFFF"
+route_type = "3"

@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "D1509D"
+route_id = "C"
+route_long_name = "Sycamore/Wake Forest"
+route_short_name = "C"
+route_text_color = "FFFFFF"
+route_type = "3"

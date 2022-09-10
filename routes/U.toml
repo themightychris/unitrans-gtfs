@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "61A543"
+route_id = "U"
+route_long_name = "West Village via MU Terminal"
+route_short_name = "U"
+route_text_color = "FFFFFF"
+route_type = "3"

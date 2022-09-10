@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "007F7F"
+route_id = "Z"
+route_long_name = "Amtrak/Cantrill/5th"
+route_short_name = "Z"
+route_text_color = "FFFFFF"
+route_type = "3"

@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "FDBB14"
+route_id = "A"
+route_long_name = "Amtrak/5th/Alhambra"
+route_short_name = "A"
+route_text_color = "000000"
+route_type = "3"

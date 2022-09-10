@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "F26D28"
+route_id = "J"
+route_long_name = "Anderson/Alvarado/N Sycamore/Silo Terminal"
+route_short_name = "J"
+route_text_color = "FFFFFF"
+route_type = "3"

@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "F68D41"
+route_id = "L"
+route_long_name = "E 8th/Pole Line/Moore/Loyola"
+route_short_name = "L"
+route_text_color = "FFFFFF"
+route_type = "3"

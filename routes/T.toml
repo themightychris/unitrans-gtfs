@@ -1,0 +1,7 @@
+agency_id = "unitrans"
+route_color = "EE2E24"
+route_id = "T"
+route_long_name = "Davis High"
+route_short_name = "T"
+route_text_color = "FFFFFF"
+route_type = "3"
