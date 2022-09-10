@@ -1,0 +1,34 @@
+#!/bin/bash
+
+GTFS_DIR="${1?' Usage: load-gtfs <path-to-extracted-gtfs>'}"
+SHEETS=(
+    agency
+    calendar
+    calendar_dates
+    fare_leg_rules
+    fare_products
+    feed_info
+    rider_categories
+    routes
+    shapes
+    stop_times
+    stops
+    trips
+)
+
+# check input
+if [ ! -f "${GTFS_DIR}/agency.txt" ]; then
+    echo "${GTFS_DIR} does not contain agency.txt"
+    exit 1
+fi
+
+# loop through sheets
+for sheet in "${SHEETS[@]}"; do
+    if [ ! -f "${GTFS_DIR}/${sheet}.txt" ]; then
+        continue
+    fi
+
+    echo "Loading GTFS data from ${GTFS_DIR}/${sheet}.txt"
+    git sheet upsert --format=csv "${sheet}" "${GTFS_DIR}/${sheet}.txt"
+    git commit -m "data(gtfs): load ${sheet}.txt"
+done
