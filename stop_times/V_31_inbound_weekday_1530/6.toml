@@ -1,0 +1,6 @@
+arrival_time = "15:30:00"
+departure_time = "15:30:00"
+stop_id = "22256"
+stop_sequence = "6"
+timepoint = "1"
+trip_id = "V_31_inbound_weekday_1530"

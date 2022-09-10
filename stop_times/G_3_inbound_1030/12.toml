@@ -1,0 +1,6 @@
+arrival_time = "10:30:00"
+departure_time = "10:30:00"
+stop_id = "22167"
+stop_sequence = "12"
+timepoint = "1"
+trip_id = "G_3_inbound_1030"
