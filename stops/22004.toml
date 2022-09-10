@@ -1,0 +1,7 @@
+stop_code = "22004"
+stop_desc = "Buses head SB"
+stop_id = "22004"
+stop_lat = "38.540645"
+stop_lon = "-121.738537"
+stop_name = "Richards Blvd & Olive Drive (SB)"
+zone_id = "0"
