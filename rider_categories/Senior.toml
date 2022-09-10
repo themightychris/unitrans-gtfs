@@ -1,0 +1,4 @@
+eligibility_url = "https://unitrans.ucdavis.edu/fares/passes/"
+min_age = "60"
+rider_category_id = "Senior"
+rider_category_name = "Seniors 60 and Older"
