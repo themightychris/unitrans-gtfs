@@ -1,0 +1,7 @@
+block_id = "4"
+direction_id = "1"
+route_id = "V"
+service_id = "1"
+shape_id = "V_Limited_IB"
+trip_headsign = "Inbound to UCD Silo (Limited)"
+trip_id = "V_1_inbound_limited_0815"

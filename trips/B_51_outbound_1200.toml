@@ -1,0 +1,7 @@
+block_id = "24"
+direction_id = "0"
+route_id = "B"
+service_id = "51"
+shape_id = "B_outbound"
+trip_headsign = "Outbound to Drake"
+trip_id = "B_51_outbound_1200"

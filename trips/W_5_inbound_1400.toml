@@ -1,0 +1,7 @@
+block_id = "2"
+direction_id = "1"
+route_id = "W"
+service_id = "5"
+shape_id = "W_inbound"
+trip_headsign = "Inbound to UC Davis Silo"
+trip_id = "W_5_inbound_1400"

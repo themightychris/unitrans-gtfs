@@ -1,0 +1,7 @@
+block_id = "3"
+direction_id = "0"
+route_id = "J"
+service_id = "35"
+shape_id = "J_outbound"
+trip_headsign = "Outbound to N Sycamore"
+trip_id = "J_35_outbound_1100"

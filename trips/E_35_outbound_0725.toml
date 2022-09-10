@@ -1,0 +1,7 @@
+block_id = "21"
+direction_id = "0"
+route_id = "E"
+service_id = "35"
+shape_id = "E_outbound_New2021"
+trip_headsign = "Outbound to J St"
+trip_id = "E_35_outbound_0725"

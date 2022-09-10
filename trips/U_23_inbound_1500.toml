@@ -1,0 +1,7 @@
+block_id = "23"
+direction_id = "1"
+route_id = "U"
+service_id = "23"
+shape_id = "U_Inbound"
+trip_headsign = "Inbound to UC Davis MU Terminal"
+trip_id = "U_23_inbound_1500"

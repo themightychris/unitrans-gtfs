@@ -1,0 +1,7 @@
+block_id = "31"
+direction_id = "1"
+route_id = "L"
+service_id = "23"
+shape_id = "L_break_inbound"
+trip_headsign = "Inbound to UCD MU - Break Only"
+trip_id = "L_23_inbound_1400"

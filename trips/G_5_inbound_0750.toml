@@ -1,0 +1,7 @@
+block_id = "24"
+direction_id = "1"
+route_id = "G"
+service_id = "5"
+shape_id = "G_inbound"
+trip_headsign = "Inbound to UCD MU"
+trip_id = "G_5_inbound_0750"

@@ -1,0 +1,7 @@
+block_id = "27"
+direction_id = "0"
+route_id = "P"
+service_id = "33"
+shape_id = "P_outbound_only"
+trip_headsign = "Outbound to Covell & F"
+trip_id = "P_33_outbound_only_2210"

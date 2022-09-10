@@ -1,0 +1,7 @@
+block_id = "4"
+direction_id = "0"
+route_id = "V"
+service_id = "1"
+shape_id = "V_Limited_OB"
+trip_headsign = "Outbound to West Village - No Service to 2080 Tilia (Limited)"
+trip_id = "V_1_outbound_limited_0900"

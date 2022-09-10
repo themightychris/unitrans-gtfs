@@ -1,0 +1,7 @@
+block_id = "7"
+direction_id = "0"
+route_id = "D"
+service_id = "1"
+shape_id = "D_outbound"
+trip_headsign = "Outbound to Arlington"
+trip_id = "D_1_outbound_1100"

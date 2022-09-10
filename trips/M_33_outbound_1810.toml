@@ -1,0 +1,7 @@
+block_id = "21"
+direction_id = "0"
+route_id = "M"
+service_id = "33"
+shape_id = "M_outbound"
+trip_headsign = "Outbound to Drew"
+trip_id = "M_33_outbound_1810"

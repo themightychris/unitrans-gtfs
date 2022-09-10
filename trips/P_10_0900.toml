@@ -1,0 +1,7 @@
+block_id = "67"
+direction_id = "0"
+route_id = "P"
+service_id = "10"
+shape_id = "P"
+trip_headsign = "Counterclockwise to UCD MU"
+trip_id = "P_10_0900"

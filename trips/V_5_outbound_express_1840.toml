@@ -1,0 +1,7 @@
+block_id = "9"
+direction_id = "0"
+route_id = "V"
+service_id = "5"
+shape_id = "V_Express_OB"
+trip_headsign = "Outbound to 2080 Tilia ONLY (Express)"
+trip_id = "V_5_outbound_express_1840"

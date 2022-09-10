@@ -1,0 +1,7 @@
+block_id = "59"
+direction_id = "0"
+route_id = "Z"
+service_id = "33"
+shape_id = "Z_outbound"
+trip_headsign = "Outbound to Target"
+trip_id = "Z_33_outbound_0830"

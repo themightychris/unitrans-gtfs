@@ -1,0 +1,7 @@
+block_id = "1"
+direction_id = "0"
+route_id = "C"
+service_id = "3"
+shape_id = "C_outbound"
+trip_headsign = "Outbound to Wake Forest"
+trip_id = "C_3_outbound_2140"

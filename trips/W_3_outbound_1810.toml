@@ -1,0 +1,7 @@
+block_id = "1"
+direction_id = "0"
+route_id = "W"
+service_id = "3"
+shape_id = "W_outbound"
+trip_headsign = "Outbound to Drummond"
+trip_id = "W_3_outbound_1810"

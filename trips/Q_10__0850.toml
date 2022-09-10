@@ -1,0 +1,7 @@
+block_id = "68"
+direction_id = "1"
+route_id = "Q"
+service_id = "10"
+shape_id = "Q_inbound_only"
+trip_headsign = "Clockwise to UCD MU"
+trip_id = "Q_10__0850"

@@ -1,0 +1,7 @@
+block_id = "4"
+direction_id = "1"
+route_id = "V"
+service_id = "45"
+shape_id = "V_inbound"
+trip_headsign = "Inbound to UCD Silo (All Stops)"
+trip_id = "V_45_inbound_weekday_1120"

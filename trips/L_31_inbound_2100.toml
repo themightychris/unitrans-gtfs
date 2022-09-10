@@ -1,0 +1,7 @@
+block_id = "5"
+direction_id = "1"
+route_id = "L"
+service_id = "31"
+shape_id = "L_inbound"
+trip_headsign = "Inbound to UCD Silo"
+trip_id = "L_31_inbound_2100"

@@ -1,0 +1,7 @@
+block_id = "22"
+direction_id = "0"
+route_id = "K"
+service_id = "31"
+shape_id = "K_outbound"
+trip_headsign = "Outbound to Arlington"
+trip_id = "K_31_outbound_0755"

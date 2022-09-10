@@ -1,0 +1,7 @@
+block_id = "30"
+direction_id = "0"
+route_id = "U"
+service_id = "23"
+shape_id = "U_Outbound"
+trip_headsign = "Outbound to West Village via Russell Blvd"
+trip_id = "U_23_outbound_1510"
