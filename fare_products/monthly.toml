@@ -1,0 +1,7 @@
+amount = "30.00"
+currency = "USD"
+duration_amount = "1"
+duration_type = "1"
+duration_unit = "5"
+fare_product_id = "monthly"
+fare_product_name = "Monthly Pass"

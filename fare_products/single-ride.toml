@@ -1,0 +1,4 @@
+amount = "1.25"
+currency = "USD"
+fare_product_id = "single-ride"
+fare_product_name = "Single Ride"

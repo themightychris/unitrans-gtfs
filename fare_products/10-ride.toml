@@ -1,0 +1,5 @@
+amount = "7.50"
+bundle_amount = "10"
+currency = "USD"
+fare_product_id = "10-ride"
+fare_product_name = "10-Ride Ticket"
