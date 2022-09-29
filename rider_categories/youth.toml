@@ -1,4 +1,4 @@
 eligibility_url = "https://unitrans.ucdavis.edu/fares/passes/"
 max_age = "18"
-rider_category_id = "Youth"
+rider_category_id = "youth"
 rider_category_name = "Youth 18 and Under"
