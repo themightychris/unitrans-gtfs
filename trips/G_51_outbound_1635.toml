@@ -1,7 +1,0 @@
-block_id = "24"
-direction_id = "0"
-route_id = "G"
-service_id = "51"
-shape_id = "G_outbound"
-trip_headsign = "Outbound to N Sycamore"
-trip_id = "G_51_outbound_1635"

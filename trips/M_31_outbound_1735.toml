@@ -1,7 +1,0 @@
-block_id = "22"
-direction_id = "0"
-route_id = "M"
-service_id = "31"
-shape_id = "M_outbound"
-trip_headsign = "Outbound to Drew"
-trip_id = "M_31_outbound_1735"

@@ -1,7 +1,0 @@
-block_id = "22"
-direction_id = "1"
-route_id = "M"
-service_id = "35"
-shape_id = "M_inbound"
-trip_headsign = "Inbound to UCD MU"
-trip_id = "M_35_inbound_1300"

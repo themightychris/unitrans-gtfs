@@ -1,7 +1,0 @@
-block_id = "6"
-direction_id = "0"
-route_id = "A"
-service_id = "35"
-shape_id = "A_outbound"
-trip_headsign = "Outbound to El Cemonte"
-trip_id = "A_35_outbound_1000"

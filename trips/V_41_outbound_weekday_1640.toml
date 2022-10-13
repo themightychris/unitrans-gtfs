@@ -1,7 +1,0 @@
-block_id = "3"
-direction_id = "0"
-route_id = "V"
-service_id = "41"
-shape_id = "V_outbound"
-trip_headsign = "Outbound to West Village (All Stops)"
-trip_id = "V_41_outbound_weekday_1640"

@@ -1,7 +1,0 @@
-block_id = "28"
-direction_id = "0"
-route_id = "Q"
-service_id = "31"
-shape_id = "Q_outbound_only"
-trip_headsign = "Outbound to F & Covell"
-trip_id = "Q_31_outbound_only_2210"

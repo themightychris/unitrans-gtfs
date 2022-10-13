@@ -1,7 +1,0 @@
-block_id = "26"
-direction_id = "0"
-route_id = "F"
-service_id = "45"
-shape_id = "F_outbound"
-trip_headsign = "Outbound to F St"
-trip_id = "F_45_outbound_1100"

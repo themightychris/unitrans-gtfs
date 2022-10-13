@@ -1,7 +1,0 @@
-block_id = "21"
-direction_id = "0"
-route_id = "K"
-service_id = "41"
-shape_id = "K_outbound"
-trip_headsign = "Outbound to Arlington"
-trip_id = "K_41_outbound_2135"

@@ -1,7 +1,0 @@
-block_id = "6"
-direction_id = "1"
-route_id = "A"
-service_id = "33"
-shape_id = "A_inbound"
-trip_headsign = "Inbound to UCD Silo"
-trip_id = "A_33_inbound_1600"
