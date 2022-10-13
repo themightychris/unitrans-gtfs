@@ -1,5 +1,3 @@
-amount = "0.00"
-currency = "USD"
 fare_product_id = "free"
 fare_product_name = "Free Fare"
 rider_category_id = "Youth"
